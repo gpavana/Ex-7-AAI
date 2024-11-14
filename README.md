@@ -1,9 +1,10 @@
 # EX-07 Implementation of Text Summarization
+# DATE:
 ### DEVELOPED BY : PAVANA G
 ### REGISTER NUMBER:212222230105
 ### Aim: 
-To perform automatic text summarization using Natural Language Processing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE :14-10-2024**<br>
-(NLP) techniques.
+To perform automatic text summarization using Natural Language Processing techniques
+
 ### Description:
 <p align="justify">
 Text summarization is the process of condensing a large body of text into a shorter version, retaining the key information and main ideas. It is a valuable tool in natural language processing (NLP) that helps users quickly grasp the core content of lengthy documents, articles, or reports. Summarization techniques range from simple frequency-based methods to advanced deep learning approaches, like transformer-based models. The main goal is to remove redundancy and retain relevant details, improving comprehension and saving time. Text summarization is widely applied in news aggregation, content curation, and academic research to deliver concise, meaningful summaries.
